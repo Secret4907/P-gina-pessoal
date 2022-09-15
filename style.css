@@ -1,0 +1,91 @@
+body{
+    background-color: gold;
+    color:black;
+    margin: 0;
+    text-align: center;
+}
+#uelcomi{
+    background: linear-gradient(green 10%,gold 100% );
+    width: 100%;
+    display: table;
+    padding: 100px 0;
+}
+#ibagem{
+    max-width: 100%;
+    border-radius: 10%;
+    width: 600px;
+    text-align: center;
+}
+#perfil{
+
+}
+.nome{
+    color:cyan;
+
+}
+
+h1{
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    font-family: 'Press Start 2P';                             
+}
+
+h2 {
+    font-family: 'Press Start 2P';  
+}
+
+#sobre{
+    font-family: 'Press Start 2P';  
+}
+
+.line{
+    width: 100px;
+    height: 10px;
+    background-color: rgb(179, 144, 224);
+    margin: 0 auto;
+  
+}
+
+#menu{
+    list-style-type: none ;
+    position: fixed;
+    width: 100%;
+    padding: 10px;
+    background-color:green ;
+    margin: 0%;
+
+}
+
+.link{
+    display: inline;
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+.link a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 20px;
+}
+.link a:hover{
+    background-color: yellow;
+    color:darkred;
+    font-weight: 30px;
+}
+.video{
+    max-width: 100%;
+}
+#rodaospe{
+    background-color: aquamarine;
+
+}
